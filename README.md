@@ -1,2 +1,2 @@
-# Motion-Planning
+# Motion Planning
 Motion Planning Algorithms
